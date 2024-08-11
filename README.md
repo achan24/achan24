@@ -1,5 +1,5 @@
 ## Hi there 👋
-I recently completed my Higher Diploma Science in Computer course at National College of Ireland where my final project was a secondhand marketplace app, called Revalue.ie.  Please checkout the github repostiory!  Thank you and have a good browse!
+I recently completed my Higher Diploma Science in Computer course at National College of Ireland where my final project was a secondhand marketplace app, called Revalue.ie.  Please checkout the github repository!  Thank you and have a good browse!
 <!--
 **achan24/achan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
